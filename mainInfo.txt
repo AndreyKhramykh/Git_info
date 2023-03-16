@@ -22,3 +22,6 @@
 	куда до этого внес правки предыщий разработчик. Цикл с блокировкой повторяется.  
 2) Copy-modify-merge
 3) Combined
+
+
+Add some information, that will be revert in rep

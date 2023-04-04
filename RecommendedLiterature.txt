@@ -1,0 +1,2 @@
+1) Pro Git by Scott Chacon and Ben Straub
+2) Version control with Git by Jon Loeliger, Matthew McCullough
